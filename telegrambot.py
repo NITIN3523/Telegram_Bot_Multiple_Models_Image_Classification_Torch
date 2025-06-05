@@ -8,7 +8,7 @@ from PIL import Image
 from Models import classifier  # Your classification function
 
 # Token
-TOKEN = "8013745386:AAEd00z8JegseE7kEWMk7dq1B4Q9SXk8Ttw"
+TOKEN = "your token id"
 
 # Predefined Data Dictionary
 data = {
